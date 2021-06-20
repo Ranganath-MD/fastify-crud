@@ -1,0 +1,14 @@
+{
+  "name": "fastify-demo",
+  "version": "1.0.0",
+  "description": "trying out fastify",
+  "main": "index.js",
+  "author": "Ranganath MD",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-autoload": "^3.7.1",
+    "fastify-swagger": "^4.7.0",
+    "uuid": "^8.3.2"
+  }
+}
